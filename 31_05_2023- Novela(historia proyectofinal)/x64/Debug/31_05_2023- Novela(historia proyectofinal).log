@@ -1,0 +1,4 @@
+﻿  31_05_2023- Novela(historia proyectofinal).cpp
+C:\Users\JULIO EL LIDER\Desktop\TrabajosEscuela-main\31_05_2023- Novela(historia proyectofinal)\31_05_2023- Novela(historia proyectofinal).cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\JULIO EL LIDER\Desktop\TrabajosEscuela-main\31_05_2023- Novela(historia proyectofinal)\31_05_2023- Novela(historia proyectofinal).cpp(71,5): warning C4551: la llamada a la función no tiene lista de argumentos
+  31_05_2023- Novela(historia proyectofinal).vcxproj -> C:\Users\JULIO EL LIDER\Desktop\TrabajosEscuela-main\31_05_2023- Novela(historia proyectofinal)\x64\Debug\31_05_2023- Novela(historia proyectofinal).exe
